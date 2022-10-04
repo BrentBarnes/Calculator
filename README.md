@@ -17,9 +17,7 @@ This was the final project of the foundations Javascript course.
 
 ![Calculator Demo Video](calculator.gif)
 
-[Live Demo](https://replit.com/@brenttbarness/Calculator?v=1)
-
-![Happy Calculator](calculator.png)
+Click here for a [Live Demo](https://replit.com/@brenttbarness/Calculator?v=1) ![Happy Calculator](calculator.png)
 
 # Reflections After Completion
 
