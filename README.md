@@ -1,4 +1,4 @@
-# Calculator
+# Calculator 
 
 The classic calculator project!  
 This was the final project of the foundations Javascript course.
@@ -17,8 +17,9 @@ This was the final project of the foundations Javascript course.
 
 ![Calculator Demo Video](calculator.gif)
 
-🖩 [Live Demo](https://replit.com/@brenttbarness/Calculator?v=1) 🖩
+[Live Demo](https://replit.com/@brenttbarness/Calculator?v=1)
 
+![Happy Calculator](calculator.png)
 
 # Reflections After Completion
 
